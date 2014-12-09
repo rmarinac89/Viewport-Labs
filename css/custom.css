@@ -1,0 +1,768 @@
+@font-face {
+  font-family: 'quicksandbold';
+  src: url("../fonts/quicksand-bold-webfont.eot");
+  src: url("../fonts/quicksand-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/quicksand-bold-webfont.woff") format("woff"), url("../fonts/quicksand-bold-webfont.ttf") format("truetype"), url("../fonts/quicksand-bold-webfont.svg#quicksandbold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'quicksandlight';
+  src: url("../fonts/quicksand-light-webfont.eot");
+  src: url("../fonts/quicksand-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/quicksand-light-webfont.woff") format("woff"), url("../fonts/quicksand-light-webfont.ttf") format("truetype"), url("../fonts/quicksand-light-webfont.svg#quicksandlight") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'quicksandregular';
+  src: url("../fonts/quicksand-regular-webfont.eot");
+  src: url("../fonts/quicksand-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/quicksand-regular-webfont.woff") format("woff"), url("../fonts/quicksand-regular-webfont.ttf") format("truetype"), url("../fonts/quicksand-regular-webfont.svg#quicksandregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'quicksandbold';
+  src: url("../fonts/quicksand-bold-webfont.eot");
+  src: url("../fonts/quicksand-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/quicksand-bold-webfont.woff") format("woff"), url("../fonts/quicksand-bold-webfont.ttf") format("truetype"), url("../fonts/quicksand-bold-webfont.svg#quicksandbold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'quicksandlight';
+  src: url("../fonts/quicksand-light-webfont.eot");
+  src: url("../fonts/quicksand-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/quicksand-light-webfont.woff") format("woff"), url("../fonts/quicksand-light-webfont.ttf") format("truetype"), url("../fonts/quicksand-light-webfont.svg#quicksandlight") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'quicksandregular';
+  src: url("../fonts/quicksand-regular-webfont.eot");
+  src: url("../fonts/quicksand-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/quicksand-regular-webfont.woff") format("woff"), url("../fonts/quicksand-regular-webfont.ttf") format("truetype"), url("../fonts/quicksand-regular-webfont.svg#quicksandregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\000033}}
+.typeform {
+  text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\000038}}
+.contact-button {
+  background: rgba(44, 249, 146, 0.6);
+  text-align: center;
+  border-radius: 6px;
+  padding: 15px 50px;
+  margin: 20px 0 10px 0;
+  color: #fff;
+  font-family: "quicksandbold";
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  display: inline-block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\0000322}}
+  .contact-button:hover {
+    background: rgba(19, 248, 133, 0.8); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\0000329}}
+.fa-paper-plane-o {
+  border-radius: 6px;
+  padding: 12px 15px;
+  color: #fff;
+  margin: 10px 20px 0 0;
+  font-size: 1.7rem;
+  display: inline-block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\0000338}}
+.fa-angle-down {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 25%;
+  font-size: 3rem;
+  color: #fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\0000349}}
+.fa-circle-thin {
+  position: relative;
+  text-align: center;
+  color: #fff;
+  font-size: 6rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\0000355}}
+  .fa-circle-thin:hover {
+    cursor: pointer; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\0000360}}
+.arrow-down {
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\0000364}}
+.fa-angle-right {
+  color: #fff;
+  font-size: 2.5rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_buttons\.scss}line{font-family:\0000369}}
+.fa-search {
+  color: #fff;
+  font-size: 2.5rem; }
+
+@-webkit-keyframes bounceIn {
+  0%, 20%, 40%, 60%, 80%, 100% {
+    -webkit-transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(0.3, 0.3, 0.3);
+    transform: scale3d(0.3, 0.3, 0.3); }
+
+  20% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1);
+    transform: scale3d(1.1, 1.1, 1.1); }
+
+  40% {
+    -webkit-transform: scale3d(0.9, 0.9, 0.9);
+    transform: scale3d(0.9, 0.9, 0.9); }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: scale3d(1.03, 1.03, 1.03);
+    transform: scale3d(1.03, 1.03, 1.03); }
+
+  80% {
+    -webkit-transform: scale3d(0.97, 0.97, 0.97);
+    transform: scale3d(0.97, 0.97, 0.97); }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\0000351}}
+.bounceIn {
+  -webkit-animation: bounceIn .75s;
+  animation: bounceIn .75s; }
+
+@-webkit-keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, -100%, 0);
+    -webkit-transform: translate3d(0, -100%, 0); }
+
+  100% {
+    opacity: 1;
+    transform: none;
+    -webkit-transform: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\0000373}}
+.fadeInDown {
+  animation: fadeInDown 2s;
+  -webkit-animation: fadeInDown 2s; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\0000379}}
+.menu-items.fadeInDown {
+  animation: fadeInDown 0.2s;
+  -webkit-animation: fadeInDown 0.2s; }
+
+@-webkit-keyframes zoomInDown {
+  0% {
+    opacity: 0;
+    transform: scale3d(0.1, 0.1, 0.1) translate3d(0, -1000px, 0);
+    -webkit-transform: scale3d(0.1, 0.1, 0.1) translate3d(0, -1000px, 0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+    -webkit-animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19); }
+
+  60% {
+    opacity: 1;
+    transform: scale3d(0.475, 0.475, 0.475) translate3d(0, 60px, 0);
+    -webkit-transform: scale3d(0.475, 0.475, 0.475) translate3d(0, 60px, 0);
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1);
+    -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\00003106}}
+.zoomInDown {
+  animation: zoomInDown 0.5s;
+  -webkit-animation: zoomInDown 0.5s; }
+
+@-webkit-keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+    -webkit-transform: translate3d(0, 100%, 0); }
+
+  100% {
+    opacity: 1;
+    transform: none;
+    -webkit-transform: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\00003128}}
+.fadeInUp {
+  animation: fadeInUp 1s;
+  -webkit-animation: fadeInUp 1s; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\00003140}}
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn; }
+
+@-webkit-keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0); }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\000037}}
+h1, h2 {
+  font-family: "quicksandbold"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000312}}
+h1 {
+  font-size: 5rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000316}}
+h3 {
+  font-family: "quicksandregular";
+  font-size: 3rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000322}}
+h4 {
+  font-family: "quicksandregular";
+  font-size: 2.5rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000328}}
+.main-header {
+  padding: 0 15px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000332}}
+.tech-info {
+  font-family: "quicksandregular";
+  font-size: 1.6rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000338}}
+.landing-wrapper {
+  position: relative; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000342}}
+.landing-wrapper .video-overlay {
+  background-color: rgba(38, 169, 223, 0.6);
+  position: absolute;
+  top: 0;
+  max-width: none;
+  width: 100%;
+  height: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000351}}
+.landing-wrapper video {
+  width: 100%;
+  height: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000358}}
+.video-overlay h1 {
+  color: #fff;
+  margin-top: 25%;
+  margin-bottom: 5%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000365}}
+.video-overlay h3 {
+  font-family: "quicksandlight";
+  color: #2cf992;
+  font-size: 3.5rem;
+  margin-bottom: 15%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000372}}
+.video-overlay h4 {
+  font-family: "quicksandlight";
+  color: #fff;
+  margin-bottom: 2.5%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000381}}
+.fa-angle-right {
+  font-size: 1.9rem;
+  margin-left: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000385}}
+  .fa-angle-right:hover {
+    color: #888; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\0000392}}
+.main-nav {
+  position: relative;
+  display: inline-block;
+  float: right;
+  margin-top: 10px;
+  margin-right: 5px;
+  cursor: pointer; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003101}}
+.logo {
+  margin-top: 10px;
+  margin-left: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003106}}
+.menu {
+  width: 60px;
+  height: 40px;
+  color: #fff;
+  padding: 0 0 0 10px;
+  font-family: "quicksandbold";
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  line-height: 40px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  margin-bottom: 7px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003130}}
+.panel-bars {
+  position: absolute;
+  top: 0;
+  left: -12px;
+  padding: 12px 0 0 0;
+  border: none;
+  outline: none;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003142}}
+.settings:hover {
+  color: #555; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003146}}
+.menu-items {
+  display: none;
+  position: absolute;
+  z-index: 999;
+  right: 8px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003153}}
+.menu-items a {
+  display: block;
+  background: #fff;
+  width: 190px;
+  height: 40px;
+  padding: 0 0 0 10px;
+  font-family: "quicksandbold";
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #888;
+  line-height: 40px;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003169}}
+.menu-items a:nth-child(2) {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003174}}
+.menu-items a:last-child {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003179}}
+.menu-items a:hover {
+  color: #555; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003183}}
+.menu-items a:hover > .fa {
+  color: #555; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003187}}
+.fa-user, .fa-code, .fa-th, .fa-laptop {
+  position: absolute;
+  margin-top: 10px;
+  margin-right: 14px;
+  right: 0;
+  font-size: 1.5rem;
+  color: rgba(0, 0, 0, 0.4);
+  opacity: 0.7; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003197}}
+.fa-bars {
+  margin-right: 14px;
+  font-size: 1.5rem;
+  line-height: 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003205}}
+#arrow {
+  width: 0;
+  height: 0;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-bottom: 9px solid #fff;
+  margin-left: 161px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003214}}
+.tech-description {
+  font-family: "quicksandregular";
+  font-size: 2rem;
+  margin-top: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003220}}
+.tech-icon {
+  padding: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003225}}
+.section-title {
+  margin-top: 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003229}}
+.language {
+  text-align: center;
+  padding: 25px 15px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003235}}
+.our-skills {
+  background: url("../images/grey.png") repeat; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003242}}
+.responsive-design {
+  background: #5EC792; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003245}}
+  .responsive-design .tech-description, .responsive-design h2 {
+    color: #fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003252}}
+.devices {
+  text-align: center;
+  padding: 80px 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003258}}
+.icon-device {
+  position: relative;
+  display: inline-block;
+  border: 3px solid #fefefe;
+  border-radius: 8px;
+  margin: 0 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003265}}
+  .icon-device::before, .icon-device::after {
+    position: absolute;
+    content: ''; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003270}}
+  .icon-device::before {
+    size: 15px;
+    top: 4px;
+    width: 10px;
+    height: 3px;
+    margin-left: -5px;
+    background: #fefefe;
+    border-radius: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003279}}
+  .icon-device::after {
+    size: 10px;
+    bottom: 4px;
+    width: 7px;
+    height: 7px;
+    margin-left: -5px;
+    background: #fefefe;
+    border-radius: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003289}}
+  .icon-device.phone {
+    width: 56px;
+    height: 103px;
+    margin: -20px 20px;
+    border-radius: 8px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003296}}
+  .icon-device.tablet {
+    width: 90px;
+    height: 120px;
+    margin: -20px 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003302}}
+  .icon-device.imac {
+    width: 232px;
+    height: 170px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003306}}
+    .icon-device.imac::before {
+      width: 4px;
+      height: 4px;
+      margin-left: -2px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003311}}
+    .icon-device.imac::after {
+      top: 100%;
+      background: transparent;
+      border-bottom: 30px solid #fefefe;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-radius: 0;
+      height: 0;
+      width: 45px;
+      margin-left: -23px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003325}}
+.quote {
+  font-family: "quicksandregular";
+  padding: 80px 40px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003329}}
+  .quote h4 {
+    line-height: 1.6; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003333}}
+  .quote cite {
+    line-height: 40px;
+    margin-left: 10px;
+    font-family: cursive; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003342}}
+.author {
+  display: inline-block;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003357}}
+.portfolio-items {
+  background: #eee; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003363}}
+.work-item {
+  font-family: "quicksandregular";
+  background: #fff;
+  border-radius: 4px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003371}}
+  .work-item h5 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1em;
+    color: #666;
+    letter-spacing: 0.25em;
+    padding: 20px;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    margin-bottom: 0;
+    margin-top: 40px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003389}}
+  .work-item img {
+    max-width: 100%;
+    height: auto;
+    background-size: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003397}}
+  .work-item p {
+    padding: 30px;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 1em;
+    color: #656565;
+    line-height: 1.4em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003409}}
+  .work-item .work-item-footer {
+    margin-bottom: 40px;
+    text-align: right;
+    padding: 10px;
+    font-size: 1.2em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003415}}
+    .work-item .work-item-footer .fa-facebook, .work-item .work-item-footer .fa-twitter, .work-item .work-item-footer .fa-youtube-play, .work-item .work-item-footer .fa-linkedin {
+      color: #d2d2d2;
+      margin: 0 5px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003421}}
+    .work-item .work-item-footer .fa-facebook:hover, .work-item .work-item-footer .fa-twitter:hover, .work-item .work-item-footer .fa-youtube-play:hover, .work-item .work-item-footer .fa-linkedin:hover {
+      color: #929292; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003437}}
+.overlay {
+  position: relative;
+  display: inline-block;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003444}}
+.overlay .site-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  color: #FFF; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003454}}
+.overlay .fa-search {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: #fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003462}}
+.overlay:hover {
+  opacity: 0.7; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003467}}
+.overlay:hover .site-link {
+  display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003482}}
+.callToAction {
+  background: #cdebf9;
+  text-align: center;
+  padding: 40px 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003487}}
+  .callToAction h4 {
+    font-family: "quicksandbold";
+    font-size: 3rem;
+    color: #4a4a4a; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003497}}
+footer {
+  background: #303c40; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003500}}
+  footer .siteMap {
+    list-style-type: none;
+    padding: 20px 0;
+    margin-bottom: 0;
+    float: left;
+    display: inline-block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003507}}
+    footer .siteMap li {
+      color: rgba(44, 249, 146, 0.6);
+      margin: 5px 0;
+      font-family: "quicksandregular";
+      font-size: 1.7rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003514}}
+    footer .siteMap li:hover {
+      color: #2cf992; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003520}}
+  footer a:hover {
+    text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003524}}
+  footer .fa-facebook, footer .fa-twitter {
+    font-size: 2.3rem;
+    margin: 5px 8px;
+    color: rgba(44, 249, 146, 0.6); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003529}}
+    footer .fa-facebook:hover, footer .fa-twitter:hover {
+      color: #2cf992; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003535}}
+  footer .socialMedia {
+    padding: 20px 0;
+    float: right; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/custom\.scss}line{font-family:\00003543}}
+.copyright {
+  margin: 20px 0;
+  font-family: "quicksandlight";
+  text-align: center;
+  color: rgba(44, 249, 146, 0.5); }
+
+@media (max-width: 1210px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\000033}}
+  .arrow-down .fa-circle-thin {
+    display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\000039}}
+  .video-overlay h1 {
+    font-size: 2.9em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000314}}
+  .video-overlay h3 {
+    font-size: 2.3rem; } }
+@media (max-width: 991px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000327}}
+  video {
+    display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000334}}
+  .video-overlay h1 {
+    font-size: 2.3em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000339}}
+  .video-overlay h3 {
+    font-size: 2rem; } }
+@media (max-width: 536px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000353}}
+  .devices {
+    padding: 40px 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000361}}
+  .icon-device::before, .icon-device::after {
+    background: #ddd; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000365}}
+  .icon-device.imac {
+    right: 13px;
+    width: 205px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000371}}
+  .icon-device.tablet {
+    margin: -30px 20px;
+    top: -65px;
+    left: 75px;
+    background: #fff;
+    border: 3px solid #ddd; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000379}}
+  .icon-device.phone {
+    margin: -30px 20px;
+    border: 3px solid #ddd;
+    width: 45px;
+    left: 33px;
+    height: 90px;
+    top: 175px;
+    background: #fff;
+    z-index: 999; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000392}}
+  .quote h4 {
+    font-size: 1.8rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\0000396}}
+  .callToAction h4 {
+    font-size: 2.5rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003100}}
+  .contact-button {
+    padding: 15px 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003104}}
+  footer .socialMedia {
+    text-align: center;
+    display: block; } }
+@media (max-width: 366px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003113}}
+  .logo {
+    float: right;
+    margin: 10px auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003118}}
+  .fa.pull-right.fa-paper-plane-o {
+    display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003122}}
+  .menu {
+    width: 165px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003126}}
+  .main-nav {
+    float: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003130}}
+  .menu-items a {
+    width: 165px; } }
+@media (min-width: 364px) and (max-width: 497px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003142}}
+  .icon-device::before, .icon-device::after {
+    background: #ddd; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003146}}
+  .icon-device.imac {
+    right: 60px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003151}}
+  .icon-device.phone {
+    top: 0;
+    left: 157px;
+    width: 45px;
+    height: 90px;
+    z-index: 999; } }
+@media (min-width: 498px) and (max-width: 536px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003166}}
+  .devices {
+    padding: 40px 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003174}}
+  .icon-device::before, .icon-device::after {
+    background: #ddd; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003178}}
+  .icon-device.imac {
+    left: 7px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003183}}
+  .icon-device.tablet {
+    top: 0;
+    left: -96px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_media_queries\.scss}line{font-family:\00003188}}
+  .icon-device.phone {
+    top: 0;
+    left: 219px; } }

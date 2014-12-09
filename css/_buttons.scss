@@ -1,0 +1,74 @@
+@import "fonts";
+
+.typeform {
+	text-decoration:none;
+
+}
+
+.contact-button {
+	background:rgba(44,249,146,0.6);
+	text-align:center;
+	border-radius:6px;
+	padding:15px 50px;
+	margin: 20px 0 10px 0;
+	color:#fff;
+	font-family:$fontbold;
+	text-transform:uppercase;
+	font-size:1.5rem;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	display:inline-block;
+
+
+	&:hover {
+		background:rgba(19,248,133,0.8);
+
+		}
+
+}
+
+.fa-paper-plane-o {
+	border-radius:6px;
+	padding:12px 15px;
+	color:#fff;
+	margin:10px 20px 0 0;
+	font-size:1.7rem;
+	display:inline-block;
+}
+
+.fa-angle-down {
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	top:25%;
+	font-size:3rem;
+	color:#fff;
+}
+
+.fa-circle-thin {
+	position:relative;
+	text-align:center;
+	color:#fff;
+	font-size:6rem;
+
+	&:hover {
+		cursor:pointer;
+	}
+}
+
+.arrow-down {
+	text-align:center;
+}
+
+.fa-angle-right {
+	color:#fff;
+	font-size:2.5rem;
+}
+
+.fa-search {
+	color:#fff;
+	font-size:2.5rem;
+}
+
+
