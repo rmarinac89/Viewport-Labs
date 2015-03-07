@@ -174,6 +174,11 @@
   animation: zoomInDown 0.5s;
   -webkit-animation: zoomInDown 0.5s; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\00003111}}
+.main-header.zoomInDown {
+  animation: zoomInDown 3s;
+  -webkit-animation: zoomInDown 3s; }
+
 @-webkit-keyframes fadeInUp {
   0% {
     opacity: 0;
@@ -184,15 +189,15 @@
     opacity: 1;
     transform: none;
     -webkit-transform: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\00003134}}
 .fadeInUp {
   animation: fadeInUp 1s;
   -webkit-animation: fadeInUp 1s; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\00003140}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Rocco_M\/dev\/Viewport-Labs\/css\/_animations\.scss}line{font-family:\00003146}}
 .fadeIn {
-  -webkit-animation-name: fadeIn;
-  animation-name: fadeIn; }
+  -webkit-animation-name: fadeIn 1s;
+  animation-name: fadeIn 1s; }
 
 @-webkit-keyframes fadeInDown {
   0% {
