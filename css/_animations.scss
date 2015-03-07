@@ -108,6 +108,12 @@
   -webkit-animation: zoomInDown 0.5s;
 }
 
+.main-header.zoomInDown {
+  animation: zoomInDown 3s;
+  -webkit-animation: zoomInDown 3s;
+}
+
+
 
 // Devices
 
@@ -138,8 +144,8 @@
 
 
 .fadeIn {
-  -webkit-animation-name: fadeIn;
-  animation-name: fadeIn;
+  -webkit-animation-name: fadeIn 1s;
+  animation-name: fadeIn 1s;
 }
 
 @-webkit-keyframes fadeInDown {
